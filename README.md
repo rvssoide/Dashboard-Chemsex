@@ -27,7 +27,7 @@ Este proyecto me permitió realizar un primer acercamiento descriptivo al fenóm
 ![Dashboard de Chemsex](https://github.com/rvssoide/Dashboard-Chemsex/tree/main/imagenes)
 
 ## 🔗 Ver Dashboard Interactivo
-🔗 [Power BI Report]([https://app.powerbi.com/view?r=XXXX](https://app.powerbi.com/view?r=eyJrIjoiNWRlMzI4YWYtODczYS00YjM1LThmNDMtYjgwNmFjYjIyYWQxIiwidCI6ImRmMTA2Y2Q0LWQwYTktNDk1ZC1hMWZlLWZiODU5YjA5Y2MyNyIsImMiOjR9&pageName=5088a540235289072e59))
+🔗 [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNWRlMzI4YWYtODczYS00YjM1LThmNDMtYjgwNmFjYjIyYWQxIiwidCI6ImRmMTA2Y2Q0LWQwYTktNDk1ZC1hMWZlLWZiODU5YjA5Y2MyNyIsImMiOjR9&pageName=5088a540235289072e59)
 
 ## 🔗 Ver Dashboard Interactivo en mi página web
 🔗 [Power BI Report](https://consumocuidadoarg.com/post/673cf85a5d49f4baa8d7b7b7)
