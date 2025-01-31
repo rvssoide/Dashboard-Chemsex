@@ -24,7 +24,7 @@ Visualización y Presentación de Resultados 📈: Finalmente, construí un dash
 Este proyecto me permitió realizar un primer acercamiento descriptivo al fenómeno de chemsex en población joven de Argentina utilizando herramientas avanzadas para el análisis de datos, aportando información valiosa sobre la prevalencia del uso de SPAS en contextos sexuales, consecuencias negativas asociadas, estrategias de reducción de daños llevadas a cabo por quienes realizan esta práctica y asociaciones con variables sociodemográficas o de personalidad como la impulsividad (constructo multidimensional) 🔍📊
 
 ## 📷 Capturas de Pantalla
-![Dashboard de Chemsex](https://github.com/rvssoide/Dashboard-Chemsex/tree/main/imagenes)
+🖼️[Dashboard de Chemsex](https://github.com/rvssoide/Dashboard-Chemsex/tree/main/imagenes)
 
 ## 🔗 Ver Dashboard Interactivo
 🔗 [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNWRlMzI4YWYtODczYS00YjM1LThmNDMtYjgwNmFjYjIyYWQxIiwidCI6ImRmMTA2Y2Q0LWQwYTktNDk1ZC1hMWZlLWZiODU5YjA5Y2MyNyIsImMiOjR9&pageName=5088a540235289072e59)
